@@ -1,8 +1,12 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0fd1425b-cf4d-4784-a1de-16f485ceefaa/deploy-status)](https://app.netlify.com/sites/minith-myreads/deploys)
+
 # MyReads Project
 
 Bookshelf app that allows you to select and categorise books you have read, are currently reading, or want to read.
 
 The project emphasises using React to build the application and provides an API server and client library that you will use to persist information as you interact with the application.
+
+App link: https://minith-myreads.netlify.app/
 
 ## Getting Started
 
